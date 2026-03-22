@@ -1,5 +1,17 @@
 {
-  "version": 2,
+  "version": 3.0.3,
   "force": true,
-  "url": "https://github.com/tuuser/tuapp/releases/download/v2/app.apk"
+  "url": "https://github.com/JulioAco/NK-Player/raw/refs/heads/main/releases/download/v3/app-release.apk",
+  "changelog": {
+    "title": "Versión 3.0.3",
+    "changes": [
+      "Se agregó sistema de actualizació automática",
+      "Soporte mejorado para formatos de video"
+    ],
+    "fixes": [
+      "Errores de carga en streaming corregidos",
+      "Se corrigieron algunos servidores"
+    ]
+  },
+  "show_changelog": true
 }
